@@ -186,8 +186,3 @@ int print_rot13string(va_list types, char buffer[],
 	}
 	return (count);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
